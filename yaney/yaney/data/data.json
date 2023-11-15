@@ -1,0 +1,343 @@
+{
+  "dataName": "病例知识图谱",
+  "patientData":[
+    {
+      "patientID": "900054153",
+      "name": "郑某君",
+      "sex": "1",
+      "birthday": "1938-06-28 00:00:00",
+      "profession": "其他工作",
+      "allergyMedication": "磺胺",
+      "diseases": [
+        {
+          "diseaseNo": "N18.001",
+          "diagnosisDate": "2019-06-24 00:00:00"
+        }
+      ],
+      "assays": [
+        {
+          "assayID": "A2500",
+          "assayDate": "20190726103424",
+          "assayRes": "0.42",
+          "assayFlag": "z"
+        },
+        {
+          "assayID": "A2020",
+          "assayDate": "20190726103424",
+          "assayRes": "14.1",
+          "assayFlag": "z"
+        }
+      ],
+      "operations": [
+        {
+          "operationID": "39.9500",
+          "operationDoctorName": "崔某可",
+          "operationDate": "2019-06-24 00:00:00"
+        },
+        {
+          "operationID": "39.9500",
+          "operationDoctorName": "崔某可",
+          "operationDate": "2019-06-26 00:00:00"
+        },
+        {
+          "operationID": "39.9600y003",
+          "operationDoctorName": "杨某",
+          "operationDate": "2019-07-24 08:00:00"
+        }
+      ],
+      "beHospitalMsgs": [
+        {
+          "hosID": "0528934-21",
+          "admissionDepartmentName": "血液科",
+          "admissionBedNo": "54",
+          "admissionDate": "2019-06-24 10:00:00",
+          "dischargedDepartmentName": "血液科",
+          "dischargedBedNo": "54",
+          "dischargedDate": "2019-07-22 16:14:52",
+          "doctorAdvice": "（1）出院带药:开同，一次5片，一日三次；思诺思，1片，睡前。"
+        },
+        {
+          "hosID": "0528934-22",
+          "admissionDepartmentName": "血液科",
+          "admissionBedNo": "52",
+          "admissionDate": "2019-07-24 08:00:00",
+          "dischargedDepartmentName": "血液科",
+          "dischargedBedNo": "52",
+          "dischargedDate": "2019-08-21 14:55:21",
+          "doctorAdvice": "（1）继续透析治疗。（2）肾内科、血液科、心内科门诊随访。"
+        }
+      ]
+    },
+    {
+      "patientID": "1712216029",
+      "name": "顾某平",
+      "sex": "2",
+      "birthday": "1998-11-22 00:00:00",
+      "profession": "学生",
+      "allergyMedication": "无",
+      "diseases": [
+        {
+          "diseaseNo": "M41.901",
+          "diagnosisDate": "2019-09-24 00:00:00"
+        }
+      ],
+      "assays": [
+        {
+          "assayID": "G106",
+          "assayDate": "20190925085407",
+          "assayRes": "2.34",
+          "assayFlag": "z"
+        },
+        {
+          "assayID": "A0319",
+          "assayDate": "20190925091150",
+          "assayRes": "48.0",
+          "assayFlag": "z"
+        }
+      ],
+      "operations": [
+        {
+          "operationID": "02.9405",
+          "operationDoctorName": "胡某军",
+          "operationDate": "2019-10-18 00:00:00"
+        }
+      ],
+      "beHospitalMsgs": [
+        {
+          "hosID": "0771147-1",
+          "admissionDepartmentName": "骨科计",
+          "admissionBedNo": "152",
+          "admissionDate": "2019-09-24 11:57:29",
+          "dischargedDepartmentName": "骨科计",
+          "dischargedBedNo": "152",
+          "dischargedDate": "2019-12-12 10:28:36",
+          "doctorAdvice": "继续入院治疗。"
+        }
+      ]
+    },
+    {
+      "patientID": "1707284190",
+      "name": "李某莉",
+      "sex": "2",
+      "birthday": "1977-05-04 00:00:00",
+      "profession": "个体户",
+      "allergyMedication": "无",
+      "diseases": [
+        {
+          "diseaseNo": "J18.900",
+          "diagnosisDate": "2019-11-19 00:00:00"
+        }
+      ],
+      "assays": [
+        {
+          "assayID": "A03373",
+          "assayDate": "20191120090700",
+          "assayRes": "1.39",
+          "assayFlag": "z"
+        },
+        {
+          "assayID": "F000461",
+          "assayDate": "20191122093707",
+          "assayRes": "2.5",
+          "assayFlag": "z"
+        }
+      ],
+      "operations": [
+        {
+          "operationID": "33.2702",
+          "operationDoctorName": "李某萍",
+          "operationDate": "2019-11-21 00:00:00"
+        },
+        {
+          "operationID": "33.2405",
+          "operationDoctorName": "李某萍",
+          "operationDate": "2019-11-21 00:00:00"
+        }
+      ],
+      "beHospitalMsgs": [
+        {
+          "hosID": "0777531-1",
+          "admissionDepartmentName": "呼吸内科计",
+          "admissionBedNo": "41",
+          "admissionDate": "2019-11-19 15:00:00",
+          "dischargedDepartmentName": "呼吸内科计",
+          "dischargedBedNo": "41",
+          "dischargedDate": "2019-11-27 10:18:03",
+          "doctorAdvice": "注意休息，避免劳累、着凉，1月后复查胸部CT，出院后如有不适，及时就医，呼吸内科门诊随访。"
+        }
+      ]
+    },
+    {
+      "patientID": "1908035220",
+      "name": "龚某伟",
+      "sex": "1",
+      "birthday": "2007-01-11 00:00:00",
+      "profession": "儿童",
+      "allergyMedication": "无",
+      "diseases": [
+        {
+          "diseaseNo": "R06.000",
+          "diagnosisDate": "2019-08-04 21:00:00"
+        }
+      ],
+      "assays": [
+        {
+          "assayID": "A03374",
+          "assayDate": "20190804224039",
+          "assayRes": "0.000",
+          "assayFlag": "z"
+        },
+        {
+          "assayID": "A0319",
+          "assayDate": "20190804224039",
+          "assayRes": "46.3",
+          "assayFlag": "z"
+        }
+      ],
+      "operations": [
+
+      ],
+      "beHospitalMsgs": [
+        {
+          "hosID": "0765481-1",
+          "admissionDepartmentName": "儿科计",
+          "admissionBedNo": "56",
+          "admissionDate": "2019-08-04 21:00:00",
+          "dischargedDepartmentName": "儿科计",
+          "dischargedBedNo": "56",
+          "dischargedDate": "2019-08-05 15:48:16",
+          "doctorAdvice": "1.出院带药:沙丁胺醇气雾剂100μg（1揿）/次吸入按需（出现呼吸困难时）。2.建议出院1周后注意复查血糖、血钾；3.如有不适，及时就诊。"
+        }
+      ]
+    },
+    {
+      "patientID": "1907037424",
+      "name": "张某琴",
+      "sex": "2",
+      "birthday": "1953-04-06 00:00:00",
+      "profession": "其他工作",
+      "allergyMedication": "无",
+      "diseases": [
+        {
+          "diseaseNo": "N18.001",
+          "diagnosisDate": "2019-07-03 00:00:00"
+        }
+      ],
+      "assays": [
+        {
+          "assayID": "A2500",
+          "assayDate": "20190703222900",
+          "assayRes": "0.37",
+          "assayFlag": "z"
+        },
+        {
+          "assayID": "E039",
+          "assayDate": "20190712171124",
+          "assayRes": "16.0",
+          "assayFlag": "l"
+        }
+      ],
+      "operations": [
+        {
+          "operationID": "39.9500",
+          "operationDoctorName": "杨某",
+          "operationDate": "2019-07-03 00:00:00"
+        }
+      ],
+      "beHospitalMsgs": [
+        {
+          "hosID": "0761698-1",
+          "admissionDepartmentName": "肾脏内科",
+          "admissionBedNo": "14",
+          "admissionDate": "2019-07-03 15:00:00",
+          "dischargedDepartmentName": "肾脏内科",
+          "dischargedBedNo": "14",
+          "dischargedDate": "2019-07-16 09:13:33",
+          "doctorAdvice": "注意休息，避免受凉、劳累及感冒。注意饮食控制，严格糖尿病饮食，三餐定时定量，正规监测血糖情况，内分泌科门诊随访。规律透析，定期复查血常规、肝肾功、电解质、血脂、血糖、糖化血红蛋白、PTH、铁代谢指标、血浆乳酸等相关指标，肾内科门诊随访，如有不适及时就诊。"
+        }
+      ]
+    }
+  ],
+  "assaysDatas": [
+    {
+      "assayID": "A2500",
+      "assayName": "红细胞比积",
+      "assayUnit": "L/L"
+    },
+    {
+      "assayID": "A2020",
+      "assayName": "血红蛋白",
+      "assayUnit": "g/dl"
+    },
+    {
+      "assayID": "G106",
+      "assayName": "纤维蛋白原",
+      "assayUnit": "g/L"
+    },
+    {
+      "assayID": "A0319",
+      "assayName": "中性粒细胞百分比",
+      "assayUnit": "%"
+    },
+    {
+      "assayID": "A03373",
+      "assayName": "网织红细胞百分比",
+      "assayUnit": "%"
+    },
+    {
+      "assayID": "F000461",
+      "assayName": "淋巴细胞培养+干扰素(基础水平N)",
+      "assayUnit": "pg/ml"
+    },
+    {
+      "assayID": "A03374",
+      "assayName": "有核红细胞数目",
+      "assayUnit": "10^9/L"
+    },
+    {
+      "assayID": "E039",
+      "assayName": "二氧化碳结合率",
+      "assayUnit": "mmol/L"
+    }
+  ],
+  "diseaseDatas": [
+    {
+      "diseaseNo": "N18.001",
+      "diseaseName": "慢性肾脏病5期"
+    },
+    {
+      "diseaseNo": "M41.901",
+      "diseaseName": "脊柱后侧凸"
+    },
+    {
+      "diseaseNo": "J18.900",
+      "diseaseName": "肺炎"
+    },
+    {
+      "diseaseNo": "R06.000",
+      "diseaseName": "呼吸困难"
+    }
+  ],
+  "operationDatas": [
+    {
+      "operationID": "39.9500",
+      "operationName": "血液透析"
+    },
+    {
+      "operationID": "39.9600y003",
+      "operationName": "血液灌流"
+    },
+    {
+      "operationID": "02.9405",
+      "operationName": "头颅骨盆牵引装置置入术"
+    },
+    {
+      "operationID": "33.2702",
+      "operationName": "超声支气管镜下肺活组织检查"
+    },
+    {
+      "operationID": "33.2405",
+      "operationName": "气管镜刷检术"
+    }
+  ]
+}
